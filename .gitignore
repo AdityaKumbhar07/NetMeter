@@ -1,0 +1,22 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+
+# Logs and runtime configuration
+*.log
+debug.log
+settings.ini
+imgui.ini
+
+# Release outputs and archives
+Releases/
+*.zip
+
+# IDE and editor directories
+.vscode/
+.vs/
+.idea/
+*.user
+*.suo
